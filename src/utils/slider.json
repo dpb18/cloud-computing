@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Milk",
+    "price": "56",
+    "image": "./MilkN.png",
+    "backgroundColor": "#fffceb"
+  },
+  {
+    "name": "Apple",
+    "price": "150/KG",
+    "image": "./apple.png",
+    "backgroundColor": "#ecffec"
+  },
+  {
+    "name": "Berry",
+    "price": "150/Kg",
+    "image": "./berry.png",
+    "backgroundColor": "#feefea"
+  },
+  {
+    "name": "Cabbage",
+    "price": "40/kg",
+    "image": "./cabbageF.png",
+    "backgroundColor": "#fff3eb"
+  },
+  {
+    "name": "Chocolate",
+    "price": "150",
+    "image": "./chocoN.png",
+    "backgroundColor": "#f2fce4"
+  },
+  {
+    "name": "Ice Cream",
+    "price": "10-1000",
+    "image": "./ice.png",
+    "backgroundColor": "#feefea"
+  },
+  {
+    "name": "Berry",
+    "price": "100",
+    "image": "./berry.png",
+    "backgroundColor": "#ecffec"
+  },
+  {
+    "name": "Milk",
+    "price": "50",
+    "image": "./MilkN.png",
+    "backgroundColor": "#fffceb"
+  },
+  {
+    "name": "Soft Drinks",
+    "price": "10-100",
+    "image": "./softN.png",
+    "backgroundColor": "#feefea"
+  }
+]
